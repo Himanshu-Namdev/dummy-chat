@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/dummy-chat/static/css/main.4d0c852b.css",
+    "main.js": "/dummy-chat/static/js/main.20962539.js",
+    "static/media/LandingImage.png": "/dummy-chat/static/media/LandingImage.f85f7fc96b7088e05aec.png",
+    "index.html": "/dummy-chat/index.html",
+    "main.4d0c852b.css.map": "/dummy-chat/static/css/main.4d0c852b.css.map",
+    "main.20962539.js.map": "/dummy-chat/static/js/main.20962539.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d0c852b.css",
+    "static/js/main.20962539.js"
+  ]
+}
